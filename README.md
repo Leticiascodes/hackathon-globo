@@ -1,10 +1,19 @@
 # hackathon-globo
 
-Requirements:
-node
+## Requirements
 
-Setup:
+- node
+
+## Setup
+
+### Install
+
+```shell
 npm install
+```
 
-Running:
+### Running
+
+```shell
 npm start
+```
